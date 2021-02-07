@@ -1,4 +1,5 @@
 1- Header (logo a esquerda, menu a direita, menu mobile a direita)
-2- Sessão Games principais (2 games)
-3- Sessão outros games
+2- Sessao Games principais (2 games)
+3- Sessao outros games
+4- Sessao de e-mail(Enviar mensagem de novas noticias atualizadas do blog)
 4- Footer
