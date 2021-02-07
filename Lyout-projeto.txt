@@ -1,0 +1,4 @@
+1- Header (logo a esquerda, menu a direita, menu mobile a direita)
+2- Sessão Games principais (2 games)
+3- Sessão outros games
+4- Footer
